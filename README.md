@@ -1,2 +1,2 @@
 # Music-Player
-# https://moni-sinha.github.io/Music-Player/
+Music Player made using HTML, CSS and JavaScript.
